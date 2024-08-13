@@ -26,7 +26,7 @@ Antes de começar, certifique-se de ter os seguintes itens instalados:
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
+   git clone git@github.com:rodrigoro86/fastapi_default.git
    cd seu-repo
    ```
 
