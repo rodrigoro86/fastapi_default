@@ -8,6 +8,7 @@ Este é um projeto simples utilizando FastAPI configurado para rodar em containe
 - [Pré-requisitos](#pré-requisitos)
 - [Instalação](#instalação)
 - [Uso](#uso)
+- [Documentação](#documentação)
 
 ## Começando
 
@@ -59,5 +60,9 @@ Antes de começar, certifique-se de ter os seguintes itens instalados:
   docker-compose up --build
   ```
 
+### Documentação
+A aplicação FastAPI oferece duas opções de documentação interativa da API:
 
-
+- **Swagger UI**: disponível em http://localhost:8000/docs  
+- **ReDoc**: disponível em http://localhost:8000/redoc  
+Ambas as interfaces fornecem uma visão geral detalhada dos endpoints disponíveis, bem como exemplos de requisições e respostas.
